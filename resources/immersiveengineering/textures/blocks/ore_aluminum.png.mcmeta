@@ -1,0 +1,11 @@
+{
+   "ctm": {
+     "ctm_version": 1,
+     "type": "bwm_strata",
+     "layer": "SOLID",
+     "textures": [
+        "immersiveengineering:blocks/ore_aluminum_1",
+        "immersiveengineering:blocks/ore_aluminum_2"
+     ]
+   }
+}
