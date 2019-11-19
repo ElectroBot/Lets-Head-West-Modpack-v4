@@ -1,4 +1,4 @@
-Dramatic Skypack 
+# Dramatic Skypack 
 from https://minecraft.curseforge.com/projects/dramatic-skys
 Only Sun and Moon used
 
@@ -7,3 +7,6 @@ A Minecraft Resource Pack to enable 3D Track models for Railcraft and Vanilla Tr
 
 # StratifiedOres
 Resource Pack for compatibility with Better With Mods HCStrata
+
+# Antique Atlas Golrith's colored texture pack!
+from https://www.curseforge.com/minecraft/mc-mods/antique-atlas
