@@ -1,0 +1,14 @@
+{ 
+	Profession:"minecraft:smith",
+	Career:"alloyer",
+
+	Offers:{
+		Recipes:[
+		
+			{action:"add", buyB:{id:"minecraft:emerald",Count:1},buy:{id:"minecraft:iron_ore",Count:1},sell:{id:"minecraft:flint_and_steel",Count:1}, CareerLevel:1},
+			{action:"add", buyB:{id:"minecraft:emerald",Count:1},buy:{id:"railcraft:ore_metal_poor",Count:1,Damage:0},sell:{id:"minecraft:flint_and_steel",Count:1}, CareerLevel:1}
+			
+		]
+	}
+
+}

@@ -1,0 +1,24 @@
+{
+    "Profession":"minecraft:librarian",
+    "Career":"cartographer",
+    "Offers":{
+        "Recipes":[
+            {
+                "action":"add",
+                "CareerLevel":1,
+                "buy":{
+                    "id":"minecraft:paper",
+                    "Count":16
+                },
+                "buyB":{
+                    "id":"minecraft:compass",
+                    "Count":1
+                },
+                "sell":{
+                    "id":"antiqueatlas:empty_antique_atlas",
+                    "Count":1
+                }
+             }
+        ]
+    }
+}
