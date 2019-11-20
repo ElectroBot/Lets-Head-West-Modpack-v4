@@ -13,6 +13,7 @@
 <betterwithmods:bark:*>.addTooltip(format.red("Craft with axe or use Better With Mods saw to get bark"));
 <betterwithmods:bat_wing>.addTooltip(format.green("Has a few uses including bait for fishing"));
 <betterwithmods:creeper_oyster>.addTooltip(format.green("Has a few uses including bait for fishing"));
+<primal:animal_fat>.addTooltip(format.green("Has a few uses including bait for fishing"));
 <betterwithmods:ender_spectacles>.addTooltip(format.red("Can show dark blocks upon which hostile mobs can spawn"));
 <betterwithmods:material:8>.displayName = "Tanned Leather Strap";
 <minecraft:boat>.addTooltip(format.red("The seas can be quite dangerous"));

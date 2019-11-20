@@ -1,6 +1,8 @@
 import crafttweaker.item.IItemStack;
 
 var removeandhide = [
+	<animalium:bear_claw_paxel>,
+	<animalium:dog_boots>,
 	<antiqueatlas:empty_antique_atlas>,
 	<betterwithaddons:ancestry_infuser:*>,
 	<betterwithaddons:artifact_frame>,
@@ -146,10 +148,7 @@ var removeandhide = [
 	<primal:brass_ingot>,
 	<primal:brass_nugget>,
 	<primal:brass_plate>,
-	<primal:brick_mold:6>.withTag({type: "ironwood"}),
-	<primal:brick_mold:7>.withTag({type: "yew"}),
-	<primal:brick_mold:8>.withTag({type: "lacquer"}),
-	<primal:brick_mold:9>.withTag({type: "corypha"}),
+	<primal:brick_mold:*>,
 	<primal:brickform>,
 	<primal:bronze_ingot>,
 	<primal:bronze_nugget>,
@@ -382,6 +381,12 @@ var removeandhide = [
 	<primal:quartz_shovel>,
 	<primal:quartz_workblade>,
 	<primal:quern:*>,
+	<primal:rock_stone>,
+	<primal:rock_andesite>,
+	<primal:rock_diorite>,
+	<primal:rock_granite>,
+	<primal:rock_netherrack>,
+	<primal:rock_end>,
 	<primal:sarsen_stone:*>,
 	<primal:schist_blue_stone:*>,
 	<primal:schist_green_stone:*>,

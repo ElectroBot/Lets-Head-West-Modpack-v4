@@ -201,16 +201,13 @@ for i, item in vanillaanvilremove {
 
 recipes.removeShaped(<minecraft:paper> *3, [[<minecraft:reeds>, <minecraft:reeds>, <minecraft:reeds>]]);
 
-//mods.betterwithmods.Cauldron.remove([<betterwithaddons:material:2>]);
-//mods.betterwithmods.Cauldron.remove([<betterwithaddons:material:5>]);
-//mods.betterwithmods.Cauldron.remove([<betterwithaddons:thorn_rose:0>]);
-//mods.betterwithmods.Cauldron.remove([<betterwithaddons:sapling_luretree:0>]);
-//mods.betterwithmods.Cauldron.remove([<betterwithmods:material:5>, <betterwithmods:material:6>]);
-//mods.betterwithmods.Cauldron.remove([<betterwithmods:material:5>, <betterwithmods:material:32>]);
-//mods.betterwithmods.Cauldron.remove([<betterwithaddons:pcb_block:0>]);
-//mods.betterwithmods.Cauldron.remove([<betterwithmods:material:6>]);
-//mods.betterwithmods.Cauldron.remove([<betterwithaddons:food_egg_cooked>]);
+mods.betterwithmods.Cauldron.remove([<betterwithaddons:decomat:2>]);
+mods.betterwithmods.Cauldron.remove([<betterwithaddons:material:2>]);
+mods.betterwithmods.Cauldron.remove([<betterwithaddons:thorn_rose:0>]);
+mods.betterwithmods.Cauldron.remove([<betterwithaddons:sapling_luretree:0>]);
+mods.betterwithmods.Cauldron.remove([<betterwithaddons:pcb_block:0>]);
 mods.betterwithmods.Cauldron.remove([<betterwithaddons:material:5>]);
+mods.betterwithmods.Cauldron.remove([<betterwithmods:kibble>]);
 
 mods.betterwithmods.Cauldron.remove([<betterwithmods:material:6>]);
 
@@ -218,7 +215,9 @@ mods.betterwithmods.Crucible.removeAll();
 
 mods.betterwithmods.Mill.remove([<betterwithmods:material:7>]);
 mods.betterwithmods.Mill.remove([<betterwithmods:material:33>]);
+mods.betterwithmods.Mill.remove([<minecraft:dye:2>]);
 mods.betterwithmods.Mill.remove([<minecraft:sugar>]);
+mods.betterwithmods.Mill.remove([<primal:salt_dust_netjry>]);
 
 mods.immersiveengineering.AlloySmelter.removeRecipe(<railcraft:ingot:9>);
 

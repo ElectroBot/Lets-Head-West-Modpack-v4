@@ -1,6 +1,8 @@
 import crafttweaker.item.IItemStack;
 
 var furnaceremove = [
+	<animalium:bear_meat_cooked>,
+	<animalium:rat_meat_cooked>,
 	<betterwithaddons:food_amanita_baked>,
 	<betterwithaddons:food_beetroot_baked>,
 	<betterwithaddons:food_carrot_baked>,

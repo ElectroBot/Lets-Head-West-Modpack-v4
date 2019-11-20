@@ -1,6 +1,12 @@
 import crafttweaker.item.IItemStack;
 
 var hide = [
+	<animalium:wild_dog_pelt>,
+	<animalium:bear_meat>,
+	<animalium:bear_meat_cooked>,
+	<animalium:bear_claw>,
+	<animalium:rat_meat>,
+	<animalium:rat_meat_cooked>,
 	<baubles:ring:0>,
 	<betterwithaddons:adobe:*>,
 	<betterwithaddons:ancestry_bottle>,
@@ -25,6 +31,7 @@ var hide = [
 	<betterwithaddons:diamond_matchpick>,
 	<betterwithaddons:diamond_spade>,
 	<betterwithaddons:extra_grass:*>,
+	<betterwithaddons:food_amanita_baked>,
 	<betterwithaddons:food_carrot_baked>,
 	<betterwithaddons:food_cooked_rice>,
 	<betterwithaddons:food_egg_cooked>,
@@ -346,6 +353,7 @@ var hide = [
 	<primal:dry_grass_root>,
 	<primal:nether_root>,
 	<primal:sinuous_spore>,
+	<primal:animal_fat_nether>,
 	<primal:daucus_murn_root>,
 	<primal:leather_boiled>,
 	<primal:tallow>,

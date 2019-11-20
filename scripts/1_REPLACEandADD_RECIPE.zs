@@ -270,6 +270,7 @@ RockyAnvil.remove([<chiselsandbits:bitsaw_diamond:*>]);
 RockyAnvil.remove([<hotornot:mitts:*>]);
 RockyAnvil.remove([<tinkersforging:hammer/aluminium:*>]);
 
+recipes.addShapeless(<primal:mud_brick_wet>, [<primal:mud_clump>]);
 recipes.addShapeless(<betterwithmods:material:8> *4, [<betterwithmods:material:32>, <minecraft:shears>.anyDamage().transformDamage()]);
 recipes.addShapeless(<betterwithmods:material:8> *2, [<betterwithmods:material:32>, <minecraft:flint>]);
 recipes.addShapeless(<betterwithmods:material:31> *2, [<minecraft:leather>, <minecraft:shears>.anyDamage().transformDamage()]);
@@ -691,6 +692,7 @@ mods.betterwithmods.Crucible.addStoked([<minecraft:stained_hardened_clay:12>],[<
 mods.betterwithmods.Crucible.addStoked([<minecraft:stained_hardened_clay:13>],[<minecraft:green_glazed_terracotta>]);
 mods.betterwithmods.Crucible.addStoked([<minecraft:stained_hardened_clay:14>],[<minecraft:red_glazed_terracotta>]);
 mods.betterwithmods.Crucible.addStoked([<minecraft:stained_hardened_clay:15>],[<minecraft:black_glazed_terracotta>]);
+mods.betterwithmods.Crucible.addStoked([<primal:animal_fat> *10],[<betterwithmods:material:13>]);
 
 mods.betterwithmods.Mill.addRecipe([<betterwithmods:bark:*>],[<primal:tannin_ground>]);
 mods.betterwithmods.Mill.addRecipe([<minecraft:reeds>],[<primal:plant_papyrus>]);
