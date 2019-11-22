@@ -385,3 +385,6 @@ mods.primal.DryingRack.removeRecipe("primal:thatching");
 mods.primal.DryingRack.removeRecipe("primal:daucus_murn_fronds");
 
 //mods.primal.Quern.removeRecipe("primal:
+
+mods.betterwithaddons.Packing.remove(<betterwithmods:material:5>);
+mods.betterwithaddons.Packing.remove(<betterwithaddons:material:6>);

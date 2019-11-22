@@ -47,3 +47,4 @@
 <roughtweaks:salve>.addTooltip(format.red("Has 2 uses which heal 1/2 heart each"));
 <minecraft:brewing_stand>.addTooltip(format.red("Disabled. Potions are made from beer in IE Mixer"));
 <minecraft:enchanting_table>.addTooltip(format.red("Disabled. Use BWM Infernal Enchanter with scrolls"));
+<signpost:itembrush>.addTooltip(format.green("Right click a block onto signpost after painting"));

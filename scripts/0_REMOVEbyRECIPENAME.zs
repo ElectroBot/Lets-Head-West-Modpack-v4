@@ -1,8 +1,5 @@
 recipes.removeByRecipeName("chiselsandbits:chisel_stone");
-recipes.removeByRecipeName("chiselsandbits:chisel_iron");
 recipes.removeByRecipeName("chiselsandbits:chisel_gold");
-recipes.removeByRecipeName("chiselsandbits:chisel_diamond");
-recipes.removeByRecipeName("chiselsandbits:bitsaw_diamond");
 recipes.removeByRecipeName("immersiveengineering:metal_storage/iron_ingot");
 recipes.removeByRecipeName("minecraft:bone_meal_from_bone");
 recipes.removeByRecipeName("minecraft:bone_meal_from_block");
