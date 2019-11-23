@@ -533,7 +533,7 @@ recipes.addShaped(<realistictorches:torch_unlit>, [
 	[<betterwithmods:material:1>],
 	[<ore:stickWood>]]);
 recipes.addShaped(<minecraft:ender_chest>, [
-	[<minecraft:obsidian>, <betterwithmods:material:14>, <minecraft:obsidian>],
+	[<minecraft:obsidian>, <minecraft:ender_eye>, <minecraft:obsidian>],
 	[<betterwithmods:material:14>, <ore:chestWood>, <betterwithmods:material:14>],
 	[<minecraft:obsidian>, <betterwithmods:material:14>, <minecraft:obsidian>]]);
 recipes.addShaped(<primal:quern_buhrstone_carbonate>, [
