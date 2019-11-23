@@ -367,9 +367,7 @@ mods.primal.Gallagher.removeRecipe("primal:pumpkin_lit_pieces_south");
 
 mods.primal.Blade.removeAll();
 
-//mods.primal.Brick.removeRecipe("primal:adobe_clump");
-//mods.primal.brick.removeRecipe("primal:cinis_clump");
-//mods.primal.brick.removeRecipe("primal:terra_clump");
+mods.primal.BrickMold.removeAll();
 
 mods.primal.DryingRack.removeRecipe("primal:adobe_brick");
 mods.primal.DryingRack.removeRecipe("primal:potato");
