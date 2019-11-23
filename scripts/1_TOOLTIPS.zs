@@ -48,3 +48,4 @@
 <minecraft:brewing_stand>.addTooltip(format.red("Disabled. Potions are made from beer in IE Mixer"));
 <minecraft:enchanting_table>.addTooltip(format.red("Disabled. Use BWM Infernal Enchanter with scrolls"));
 <signpost:itembrush>.addTooltip(format.green("Right click a block onto signpost after painting"));
+<minecraft:ender_chest>.addTooltip(format.green("Used in BwM's HCBeacons. Shared inventory until fully upgraded"));
