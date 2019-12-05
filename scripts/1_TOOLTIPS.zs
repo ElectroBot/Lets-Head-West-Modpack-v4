@@ -17,7 +17,6 @@
 <betterwithmods:ender_spectacles>.addTooltip(format.red("Can show dark blocks upon which hostile mobs can spawn"));
 <betterwithmods:material:8>.displayName = "Tanned Leather Strap";
 <minecraft:boat>.addTooltip(format.red("The seas can be quite dangerous"));
-<minecraft:diamond_ore>.addTooltip(format.red("Can only be found in Oceans"));
 <minecraft:gold_ore>.addTooltip(format.red("Can only be found in Deserts"));
 <minecraft:iron_ore>.addTooltip(format.red("Can only be found in Forests"));
 <minecraft:lapis_ore>.addTooltip(format.red("Can only be found in Oceans"));
@@ -29,8 +28,8 @@
 <primal:fishing_rod_corypha>.displayName = "Carbon Fibre Fishing Rod";
 <railcraft:ore_metal:0>.addTooltip(format.red("Can only be found in Plains"));
 <railcraft:ore_metal:1>.addTooltip(format.red("Can only be found in Mountains"));
-<railcraft:ore_metal:2>.addTooltip(format.red("Can only be found in Mesas"));
-<railcraft:ore_metal:3>.addTooltip(format.red("Can only be found in Savannas"));
+<railcraft:ore_metal:2>.addTooltip(format.red("Can only be found in Mesas and Savannas"));
+<railcraft:ore_metal:3>.addTooltip(format.red("Can only be found in Mesas and Savannas"));
 <railcraft:ore_metal:4>.addTooltip(format.red("Can only be found in Jungles"));
 <railcraft:ore_metal:5>.addTooltip(format.red("Can only be found in Swamps"));
 <railcraft:ore_metal_poor:0>.addTooltip(format.red("Can only be found in Forests"));
@@ -49,3 +48,4 @@
 <minecraft:enchanting_table>.addTooltip(format.red("Disabled. Use BWM Infernal Enchanter with scrolls"));
 <signpost:itembrush>.addTooltip(format.green("Right click a block onto signpost after painting"));
 <minecraft:ender_chest>.addTooltip(format.green("Used in BwM's HCBeacons. Shared inventory until fully upgraded"));
+<minecraft:flint_and_steel>.addTooltip(format.green("Can be purchased from the Alloy Smith or Butcher villager"));

@@ -66,6 +66,7 @@ var remove = [
 	<minecraft:paper>,
 	<minecraft:torch>,
 	<minecraft:trapdoor>,
+	<minecraft:wheat_seeds>,
 	<primal:cauldron>,
 	<primal:door_lacquer>,
 	<primal:fence:2>,
@@ -212,6 +213,7 @@ mods.betterwithmods.Cauldron.remove([<betterwithaddons:sapling_luretree:0>]);
 mods.betterwithmods.Cauldron.remove([<betterwithaddons:pcb_block:0>]);
 mods.betterwithmods.Cauldron.remove([<betterwithaddons:material:5>]);
 mods.betterwithmods.Cauldron.remove([<betterwithmods:kibble>]);
+mods.betterwithmods.Cauldron.remove([<betterwithaddons:adobe:0>]);
 
 mods.betterwithmods.Cauldron.remove([<betterwithmods:material:6>]);
 

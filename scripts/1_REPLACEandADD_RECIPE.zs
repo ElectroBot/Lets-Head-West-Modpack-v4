@@ -525,7 +525,7 @@ recipes.addShaped(<simplemagnet:simple_magnet>, [
 	[<betterwithmods:material:14>, <betterwithmods:material:14>, <betterwithmods:material:14>]]);
 recipes.addShaped(<realistictorches:matchbox>, [
 	[<ore:slabWood>, <ore:slabWood>, <ore:slabWood>],
-	[<ore:slabWood>, <ore:slabWood>, <minecraft:flint_and_steel>]]);
+	[<ore:slabWood>, <primal:flint_point>, <primal:flint_point>]]);
 recipes.addShaped(<realistictorches:torch_unlit>, [
 	[<ore:clumpFuel>],
 	[<ore:stickWood>]]);
