@@ -276,6 +276,8 @@ recipes.addShapeless(<betterwithmods:material:8> *2, [<betterwithmods:material:3
 recipes.addShapeless(<betterwithmods:material:31> *2, [<minecraft:leather>, <minecraft:shears>.anyDamage().transformDamage()]);
 recipes.addShapeless(<betterwithmods:material:32> *2, [<primal:hide_tanned>, <minecraft:shears>.anyDamage().transformDamage()]);
 recipes.addShapeless(<betterwithmods:material:32> *1, [<primal:hide_tanned>, <minecraft:flint>]);
+recipes.addShapeless(<roughtweaks:salve> *2, [<minecraft:red_flower:*>, <primal:mud_clump>, <minecraft:bowl>]);
+recipes.addShapeless(<roughtweaks:salve> *2, [<minecraft:yellow_flower:*>, <primal:mud_clump>, <minecraft:bowl>]);
 recipes.addShaped(<betterwithmods:saw>, [
 	[<railcraft:ingot:5>, <railcraft:ingot:5>, <railcraft:ingot:5>],
 	[<betterwithmods:material:0>, <betterwithmods:material:9>, <betterwithmods:material:0>],
@@ -499,14 +501,6 @@ recipes.addShaped(<railcraft:rail:0> *3, [
 	[<immersiveengineering:material:1>, null, <immersiveengineering:material:1>],
 	[<immersiveengineering:material:1>, null, <immersiveengineering:material:1>],
 	[<immersiveengineering:material:1>, null, <immersiveengineering:material:1>]]);
-recipes.addShaped(<roughtweaks:salve> *2, [
-	[null, <minecraft:red_flower:*>, null],
-	[null, <primal:mud_clump>, null],
-	[null, <minecraft:bowl>, null]]);
-recipes.addShaped(<roughtweaks:salve> *2, [
-	[null, <minecraft:yellow_flower:*>, null],
-	[null, <primal:mud_clump>, null],
-	[null, <minecraft:bowl>, null]]);
 recipes.addShaped(<roughtweaks:plaster> *6, [
 	[<minecraft:string>, <primal:plant_papyrus>, null],
 	[null, <minecraft:mushroom_stew>, null],
